@@ -1,0 +1,12 @@
+---
+:id: 37204455
+:submitters:
+- :name: William Kopec
+  :email: wkopec5@uic.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-05-07 21:34:27.185960000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-05-07 14:34:27.185960000 Z
+:status: processed
+:score: 102.5
