@@ -1,0 +1,2 @@
+## UIC-campus-GPS
+This is a project created to navigate around the UIC campus in the most optimal time from start to destination using Dijkstra's algorithm. This project uses OpenStreetMap's public street information as nodes to be used in Dijkstra's algorithm to navigate through the campus and streets of the UIC Campus (Website: https://www.openstreetmap.org / Documentation: https://wiki.openstreetmap.org/wiki/Main_Page). This project also uses TinyXML to parse data Via XML (Source:  https://github.com/leethomason/tinyxml2).
